@@ -1,0 +1,9 @@
+What is useContext?
+A.useContext is a ReactHook used to access  global data stored in a Context object ,without passing props manually through each Component.
+->Context is a global mechanism provided by React to share data across multiple Components.
+
+Steps to useContext:
+----------------------
+1.create Context
+2.provide Context
+3.consume Context

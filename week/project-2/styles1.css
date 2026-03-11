@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 250px;
+    margin:auto;
+    margin-top:200px;
+    text-align: center;
+    background-color: whitesmoke;
+    padding:30px;
+    border-radius: 10px;
+
+}
+
+body{
+    background-color: gray;
+}
+
+img{
+    width: 50%;
+    border-radius: 51%;
+    margin-bottom: 10px;
+
+}
+h3{
+    background-color: darkblue;
+    border-radius: 50px;
+    color:rgb(243, 234, 234);
+    padding: 7px;
+    width: 100px;
+    margin:auto;
+}
+
+.vishnu{
+    position:relative;
+
+}
+.logo{
+    position:absolute;
+    border-top: 30%;
+    margin-top: 300px;
+    width: 40px;
+    height: 20px;
+}
