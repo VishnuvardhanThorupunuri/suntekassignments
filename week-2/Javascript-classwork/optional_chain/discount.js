@@ -1,3 +1,0 @@
-let product={
-    productName:
-}
